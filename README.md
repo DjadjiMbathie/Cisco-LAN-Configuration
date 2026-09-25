@@ -26,3 +26,8 @@ afin de vérifier la connectivité du réseau.
 ## 🛠️ Outil utilisé
 
 - Cisco Packet Tracer
+
+
+## 📸 Topologie du réseau
+
+![Topologie LAN](topologie_LAN1.png)
